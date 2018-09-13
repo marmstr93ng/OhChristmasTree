@@ -5,7 +5,7 @@ The initial concept for a electronic desk christmas tree.
 
 * Small enough to not be unobtrusive on a desk
 * Must resemble a christmas tree (PCB tree shaped)
-* Decorated (LEDs as lights, silk screen)
+* Decorated (LEDs as lights, silk screen art)
 * LED blink pattern controllable
 * Portable (battery powered)
 * Standable (cross piece stand)
