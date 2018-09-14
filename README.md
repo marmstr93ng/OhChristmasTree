@@ -35,3 +35,4 @@ The initial concept for a electronic desk christmas tree.
 ## Links 
 [PCB Art](https://medium.com/@urish/a-practical-guide-to-designing-pcb-art-b5aa22926a5c)
 [Panelised Design](http://docs.oshpark.com/troubleshooting/panelized-designs/)
+[Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
