@@ -44,3 +44,4 @@ The initial concept for a electronic desk christmas tree.
 * [Serial Shifting](https://www.arduino.cc/en/Tutorial/ShiftOut)
 * [PWM](https://www.arduino.cc/en/tutorial/fade)
 * [PCB Fab](https://jlcpcb.com/)
+* [Schematic to PCB](https://www.youtube.com/watch?v=35YuILUlfGs)
