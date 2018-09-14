@@ -20,6 +20,10 @@ The initial concept for a electronic desk christmas tree.
 * Size, Shape, stand mechanics
 2. PCB Layout
 
+### Questions
+* How to drive multiple LEDs off a few pins (ATtiny has five pins)?
+* How to control fading? Achievable on as few pins as possible?
+
 ### Patterns
 * Chase (one on at a time up the string of lights)
 * FiftyFifty (half on, half off, switch back and forth)
@@ -36,3 +40,6 @@ The initial concept for a electronic desk christmas tree.
 * [PCB Art](https://medium.com/@urish/a-practical-guide-to-designing-pcb-art-b5aa22926a5c)
 * [Panelised Design](http://docs.oshpark.com/troubleshooting/panelized-designs/)
 * [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
+* [Further Charlieplexing](https://www.instructables.com/id/Controlling-20-Leds-from-5-Arduino-pins-using-Cha/)
+* [Serial Shifting](https://www.arduino.cc/en/Tutorial/ShiftOut)
+* [PWM](https://www.arduino.cc/en/tutorial/fade)
