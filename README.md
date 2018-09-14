@@ -13,9 +13,9 @@ The initial concept for a electronic desk christmas tree.
 
 ## Steps
 1. Schematic/breadboard prototyping - (think of final pcb manufacturing)
-* LED Control - simple patterns - button to cycle through
+* LED Control - simple patterns - button to cycle through (cycle off - indicated by star going out which is normally always on)
 * reflash capability
-* Power - on/off switch
+* Power
 2. Model prototype
 * Size, Shape, stand mechanics
 2. PCB Layout
