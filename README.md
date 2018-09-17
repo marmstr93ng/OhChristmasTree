@@ -20,6 +20,10 @@ The initial concept for a electronic desk christmas tree.
 * Size, Shape, stand mechanics
 2. PCB Layout
 
+### Design
+* Eyelet at the top of the tree to hang as tree ornament
+* Stand embedded into the tree base (PCB)
+
 ### Questions
 * How to drive multiple LEDs off a few pins (ATtiny has five pins)?
 * How to control fading? Achievable on as few pins as possible?
