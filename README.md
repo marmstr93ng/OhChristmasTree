@@ -2,7 +2,6 @@
 The initial concept for a electronic desk christmas tree.
 
 ## Parameters
-
 * Small enough to not be unobtrusive on a desk
 * Must resemble a christmas tree (PCB tree shaped)
 * Decorated (LEDs as lights(differnt colours - RGB?), silk screen art, star LED (twinkle?))
@@ -12,17 +11,13 @@ The initial concept for a electronic desk christmas tree.
 * Complete kit
 
 ## Steps
-1. Schematic/breadboard prototyping - (think of final pcb manufacturing)
+1. Model prototype
+* Size, Shape, stand mechanics
+2. Schematic/breadboard prototyping - (think of final pcb manufacturing)
 * LED Control - simple patterns - button to cycle through (cycle off - indicated by star going out which is normally always on)
 * reflash capability
 * Power
-2. Model prototype
-* Size, Shape, stand mechanics
-2. PCB Layout
-
-### Design
-* Eyelet at the top of the tree to hang as tree ornament
-* Stand embedded into the tree base (PCB)
+3. PCB Layout
 
 ### Questions
 * How to drive multiple LEDs off a few pins (ATtiny has five pins)?
@@ -49,3 +44,20 @@ The initial concept for a electronic desk christmas tree.
 * [PWM](https://www.arduino.cc/en/tutorial/fade)
 * [PCB Fab](https://jlcpcb.com/)
 * [Schematic to PCB](https://www.youtube.com/watch?v=35YuILUlfGs)
+* [PCB Basics](https://learn.sparkfun.com/tutorials/pcb-basics)
+* [Coin Battery Holder](https://www.mouser.co.uk/Power/Battery-Holders-Clips-Contacts/Coin-Cell-Battery-Holders/_/N-cid2l)
+
+### Model Parameters
+* probable pcb manufacturer has cheap boards up to 100mm by 100mm
+* heavy electronic parts as close to the base as possible (low centre of gravity), tree is wider there anyway
+* Eyelet at the top of the tree to hang as tree ornament
+* Red and white cord intertwined for hanging (to be included even when intended for stand mode)
+* Stand embedded into the tree base (PCB)
+
+1. Understand stand mechanics
+2. Eyelet size and string length
+3. Create working prototype with printed model copy (colour) with stand and hanging mechanics included 
+4. Print shape copies for design work
+* Part size parameters
+* Part positioning
+* LED number (pin constraints)
