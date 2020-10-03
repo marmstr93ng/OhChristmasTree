@@ -55,6 +55,8 @@ The initial concept for a electronic desk christmas tree.
 * Red and white cord intertwined for hanging (to be included even when intended for stand mode)
 * Stand embedded into the tree base (PCB)
 
+Use Uno to similate ATTiny - prototype Charlieplexing (How many LEDs?) - prototype fading
+
 1. Understand stand mechanics
 2. Eyelet size and string length
 3. Create working prototype with printed model copy (colour) with stand and hanging mechanics included 
