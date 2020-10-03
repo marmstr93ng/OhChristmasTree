@@ -46,6 +46,7 @@ The initial concept for a electronic desk christmas tree.
 * [Schematic to PCB](https://www.youtube.com/watch?v=35YuILUlfGs)
 * [PCB Basics](https://learn.sparkfun.com/tutorials/pcb-basics)
 * [Coin Battery Holder](https://www.mouser.co.uk/Power/Battery-Holders-Clips-Contacts/Coin-Cell-Battery-Holders/_/N-cid2l)
+* [ATTiny](https://www.hackster.io/news/making-it-miniature-integrating-the-attiny85-in-your-arduino-project-857b796ac5f0)
 
 ### Model Parameters
 * probable pcb manufacturer has cheap boards up to 100mm by 100mm
