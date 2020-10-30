@@ -48,6 +48,10 @@ The initial concept for a electronic desk christmas tree.
 * [Coin Battery Holder](https://www.mouser.co.uk/Power/Battery-Holders-Clips-Contacts/Coin-Cell-Battery-Holders/_/N-cid2l)
 * [ATTiny](https://www.hackster.io/news/making-it-miniature-integrating-the-attiny85-in-your-arduino-project-857b796ac5f0)
 
+https://hackaday.com/2019/02/24/get-twelve-charlieplexed-pwm-outputs-from-an-attiny85/
+http://www.multiwingspan.co.uk/arduino.php?page=charlie
+
+
 ### Model Parameters
 * probable pcb manufacturer has cheap boards up to 100mm by 100mm
 * heavy electronic parts as close to the base as possible (low centre of gravity), tree is wider there anyway
